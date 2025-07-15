@@ -1,4 +1,4 @@
-# 🛡️ Rakshak: Privacy-First AI Interaction
+# 🛡️ KAVACH: Privacy-First AI Interaction
 
 ### 🔐 *"Your Personal Redaction Shield Before Talking to AI"*
 
@@ -6,11 +6,11 @@
 
 ## 📖 Project Overview
 
-**RAKSHak** is a powerful, privacy-centric **text redaction and sanitation system** built to shield sensitive user data from exposure to **Large Language Models (LLMs)** 🤖.
+**KAVACH** is a powerful, privacy-centric **text redaction and sanitation system** built to shield sensitive user data from exposure to **Large Language Models (LLMs)** 🤖.
 
 It acts as a **smart intermediary** — identifying and redacting **Personally Identifiable Information (PII)** from your text so you can interact with AI **without compromising your privacy** 🔏.
 
-> 🎯 Engineered using a multi-layered AI stack, **RAKSHak** achieves over **89% accuracy** in PII detection, making it a **reliable privacy protector** in digital communication.
+> 🎯 Engineered using a multi-layered AI stack, **KAVACH** achieves over **89% accuracy** in PII detection, making it a **reliable privacy protector** in digital communication.
 
 ---
 
@@ -35,7 +35,7 @@ It acts as a **smart intermediary** — identifying and redacting **Personally I
 
 ## 🧬 How It Works: Layered Protection System
 
-RAKSHak uses a **3-layer defense strategy** 🧱 for robust privacy:
+KAVACH uses a **3-layer defense strategy** 🧱 for robust privacy:
 
 ### 1️⃣ Pattern-Based Scanning  
 🛠️ Utilizes **Presidio** to scan and tag PII with recognizable formats:  
@@ -71,10 +71,10 @@ Want to try it out? Here’s how you can run it locally 🧪:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/RAKSHak.git
+git clone https://github.com/<your-username>/KAVACH.git
 
 # 2. Move into the project directory
-cd RAKSHak
+cd KAVACH
 
 # 3. Install the required dependencies
 pip install -r requirements.txt
