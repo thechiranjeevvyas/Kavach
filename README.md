@@ -1,4 +1,4 @@
-# 🛡️ RAKSHak: Privacy-First AI Interaction
+# 🛡️ Rakshak: Privacy-First AI Interaction
 
 ### 🔐 *"Your Personal Redaction Shield Before Talking to AI"*
 
